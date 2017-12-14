@@ -54,10 +54,6 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'godlygeek/tabular'
 Plugin 'plasticboy/vim-markdown'
 
-" Org-mode vim plugin
-Plugin 'tpope/vim-speeddating'
-Plugin 'jceb/vim-orgmode'
-
 " Vim Table Mode
 Plugin 'dhruvasagar/vim-table-mode'
 
